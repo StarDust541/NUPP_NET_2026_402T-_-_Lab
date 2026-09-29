@@ -1,0 +1,32 @@
+[
+  {
+    "$type": "digital",
+    "SizeGb": 50.5,
+    "Platform": "GOG",
+    "DownloadLink": "https://gamestore.local/download/f0fa4642-5608-405e-b5b5-51b11f155c42",
+    "Id": "f0fa4642-5608-405e-b5b5-51b11f155c42",
+    "Name": "The Witcher 3",
+    "Genre": "RPG",
+    "Price": 29.9925
+  },
+  {
+    "$type": "physical",
+    "Edition": "Steelbook Edition",
+    "WeightGrams": 350,
+    "HasBox": true,
+    "Id": "f3ceb7de-586f-4399-b2f1-6514206112d9",
+    "Name": "Cyberpunk 2077",
+    "Genre": "Action-RPG",
+    "Price": 44.99
+  },
+  {
+    "$type": "console",
+    "ConsoleName": "PlayStation 5",
+    "Multiplayer": true,
+    "AgeRating": 18,
+    "Id": "0fdebb9b-2ae7-46ea-8672-9711246895b1",
+    "Name": "GTA V",
+    "Genre": "Action",
+    "Price": 29.99
+  }
+]
